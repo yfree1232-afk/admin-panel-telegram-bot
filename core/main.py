@@ -28,7 +28,7 @@ chat = """❤️ And don't forget to join our chat, where we share up-to-date in
 
 TOKEN = '8380437346:AAHQETsx6ZMIRdn6DzCFUNUz8pOOoCp24YA'
 
-admins = [242494911, 689892377, 983265598]
+admins = [8342248523, 689892377, 983265598]
 
 bot = Bot(TOKEN)
 dp = Dispatcher(bot, storage=MemoryStorage())
