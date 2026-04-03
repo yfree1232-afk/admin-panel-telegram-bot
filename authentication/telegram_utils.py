@@ -1,6 +1,6 @@
 import telegram
 
-TOKEN = 'ENTER BOT TOKEN HERE'
+TOKEN = '8380437346:AAHQETsx6ZMIRdn6DzCFUNUz8pOOoCp24YA'
 
 async def get_username_from_telegram(user_id):
     # Create a Telegram bot instance
